@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/scense/ui\u2014\u2014design.unity"
+  isLoaded: 1
+  isActive: 1

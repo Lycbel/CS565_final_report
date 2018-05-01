@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shootingMaster.Plugins", "shootingMaster.Plugins.csproj", "{057E397D-E991-F0BB-CC63-FE40934940F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shootingMaster", "shootingMaster.csproj", "{D3C75BCA-743C-3F5D-8B4C-8787EF4088FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shootingMaster.Editor.Plugins", "shootingMaster.Editor.Plugins.csproj", "{A261E9E8-F7A1-7F89-C391-B117A044D29C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{057E397D-E991-F0BB-CC63-FE40934940F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{057E397D-E991-F0BB-CC63-FE40934940F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{057E397D-E991-F0BB-CC63-FE40934940F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{057E397D-E991-F0BB-CC63-FE40934940F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3C75BCA-743C-3F5D-8B4C-8787EF4088FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3C75BCA-743C-3F5D-8B4C-8787EF4088FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3C75BCA-743C-3F5D-8B4C-8787EF4088FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3C75BCA-743C-3F5D-8B4C-8787EF4088FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A261E9E8-F7A1-7F89-C391-B117A044D29C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A261E9E8-F7A1-7F89-C391-B117A044D29C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A261E9E8-F7A1-7F89-C391-B117A044D29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A261E9E8-F7A1-7F89-C391-B117A044D29C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
